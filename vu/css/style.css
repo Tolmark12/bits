@@ -1,0 +1,7 @@
+body{
+  background:#EEEEEE;
+  margin:0;
+  padding:0;
+}
+
+.code-editor-wrapper {background:#EAEAEA; width:600px; height:100%; float:right; }
